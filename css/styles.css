@@ -1,19 +1,3 @@
 body {
-  background-color: #f2f4c0;
-}
-
-h1{
-  color: #5AA469;
-}
-
-h3{
-  color: #5AA469;
-}
-
-hr {
-  border-color: brown;
-  border-style: none;
-  border-width: 5px;
-  border-top-style: dotted;
-  width: 5%;
+  background-color: green;
 }
